@@ -1,0 +1,53 @@
+{
+  "carvers": {},
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 2755141,
+    "particle": {
+      "options": {
+        "type": "minecraft:portal"
+      },
+      "probability": 0.004
+    },
+    "sky_color": 1705520,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "simplegalaxy:cosmic_iron_ore",
+      "simplegalaxy:cosmic_gold_ore",
+      "simplegalaxy:cosmic_diamond_ore",
+      "simplegalaxy:cosmic_emerald_ore",
+      "simplegalaxy:stardust_ore",
+      "simplegalaxy:nebulite_ore",
+      "simplegalaxy:empyrium_ore"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:enderman",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 10
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.5
+}

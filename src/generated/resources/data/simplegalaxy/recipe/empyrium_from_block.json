@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "simplegalaxy:empyrium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "simplegalaxy:empyrium"
+  }
+}

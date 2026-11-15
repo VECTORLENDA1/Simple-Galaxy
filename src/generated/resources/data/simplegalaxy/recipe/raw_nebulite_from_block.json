@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "simplegalaxy:raw_nebulite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "simplegalaxy:raw_nebulite"
+  }
+}

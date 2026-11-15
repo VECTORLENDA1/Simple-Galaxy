@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cosmic_diamond_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "simplegalaxy:cosmic_diamond_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "simplegalaxy:diamond_from_smelting_cosmic_diamond_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cosmic_diamond_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "simplegalaxy:diamond_from_smelting_cosmic_diamond_ore"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "type": "simplegalaxy:galaxy",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "simplegalaxy:galaxy",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "simplegalaxy:starlit_plains",
+          "parameters": {
+            "temperature": [
+              -2,
+              0.15
+            ],
+            "humidity": [
+              -2,
+              2
+            ],
+            "continentalness": [
+              -2,
+              2
+            ],
+            "erosion": [
+              -2,
+              2
+            ],
+            "weirdness": [
+              -2,
+              2
+            ],
+            "depth": [
+              -2,
+              2
+            ],
+            "offset": 0
+          }
+        },
+        {
+          "biome": "simplegalaxy:nebula_fields",
+          "parameters": {
+            "temperature": [
+              0.15,
+              2
+            ],
+            "humidity": [
+              -2,
+              2
+            ],
+            "continentalness": [
+              -2,
+              2
+            ],
+            "erosion": [
+              -2,
+              2
+            ],
+            "weirdness": [
+              -2,
+              2
+            ],
+            "depth": [
+              -2,
+              2
+            ],
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}

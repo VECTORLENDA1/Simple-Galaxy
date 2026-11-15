@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.0,
+  "group": "empyrium",
+  "ingredient": {
+    "item": "simplegalaxy:empyrium_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "simplegalaxy:empyrium"
+  }
+}
