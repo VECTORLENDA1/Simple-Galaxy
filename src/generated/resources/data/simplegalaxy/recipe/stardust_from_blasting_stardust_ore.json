@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "group": "stardust",
+  "ingredient": {
+    "item": "simplegalaxy:stardust_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "simplegalaxy:stardust"
+  }
+}

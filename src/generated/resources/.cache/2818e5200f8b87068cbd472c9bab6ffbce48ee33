@@ -1,0 +1,12 @@
+// 1.21.1	2026-11-15T23:38:03.957220123	Tags for minecraft:block mod id simplegalaxy
+5a2620f4ebf963c2f1d8f0abce33b87c5eb8a3ca data/c/tags/block/ores.json
+545f28dbb28d8d3bd381347d5c5d24904b92f458 data/minecraft/tags/block/beacon_base_blocks.json
+6bd21534164f67831bf2f5fc73e9230278054852 data/minecraft/tags/block/diamond_ores.json
+6150c95eda2354e41278c4e6809e86fdf7fb522f data/minecraft/tags/block/emerald_ores.json
+027b6fa247c17358b6776fb493ece2e0c54787a7 data/minecraft/tags/block/gold_ores.json
+adf2a68d45dd42efd9441f0fab0a518bed65a675 data/minecraft/tags/block/iron_ores.json
+f749abc645128a23c58d487e95c98fad2f2ce808 data/minecraft/tags/block/mineable/pickaxe.json
+c85948a9818c93fc63cc39948283d1af2fdaeba9 data/minecraft/tags/block/mineable/shovel.json
+72b8d0315b30650ddf840e6e771722cae75e6717 data/minecraft/tags/block/needs_diamond_tool.json
+224ceeeab2e0ed3284ac9e09d5f176cb4c1eee29 data/minecraft/tags/block/needs_iron_tool.json
+69e7c4cfa4c5ca14e94447d924e6797e2cce4e9d data/minecraft/tags/block/needs_stone_tool.json
